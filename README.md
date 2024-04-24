@@ -1,2 +1,5 @@
 # densenvolve-python-basico
-Atividades python projeto desenvolve
+
+Projeto Desenvolve-ITABIRA
+Programação Básica com Python
+PDITA:220
